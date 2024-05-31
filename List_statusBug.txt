@@ -27,5 +27,5 @@ Tiêu đề: Lỗi cập nhật hồ sơ
 Mô tả: Người dùng không thể cập nhật thông tin hồ sơ cá nhân
 Người báo cáo: Phạm Văn D
 Ngày báo cáo: 28/05/2024
-Trạng thái: Chưa fix
+Trạng thái: Đã fix
 Người phụ trách: Nguyễn Văn E
