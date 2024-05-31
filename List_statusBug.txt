@@ -1,0 +1,31 @@
+ID: BUG001
+Tiêu đề: Lỗi đăng nhập
+Mô tả: Người dùng không thể đăng nhập vào hệ thống với thông tin hợp lệ
+Người báo cáo: Nguyễn Văn A
+Ngày báo cáo: 20/05/2024
+Trạng thái: Chưa fix
+Người phụ trách: Trần Thị B
+
+ID: BUG002
+Tiêu đề: Lỗi hiển thị trang chủ
+Mô tả: Trang chủ không hiển thị đúng định dạng trên trình duyệt Firefox
+Người báo cáo: Lê Văn C
+Ngày báo cáo: 22/05/2024
+Trạng thái: Chưa fix
+Người phụ trách: Nguyễn Văn A
+
+ID: BUG003
+Tiêu đề: Lỗi tải tệp đính kèm
+Mô tả: Hệ thống không cho phép tải tệp đính kèm khi gửi email
+Người báo cáo: Trần Thị B
+Ngày báo cáo: 25/05/2024
+Trạng thái: Chưa fix
+Người phụ trách: Lê Văn C
+
+ID: BUG004
+Tiêu đề: Lỗi cập nhật hồ sơ
+Mô tả: Người dùng không thể cập nhật thông tin hồ sơ cá nhân
+Người báo cáo: Phạm Văn D
+Ngày báo cáo: 28/05/2024
+Trạng thái: Chưa fix
+Người phụ trách: Nguyễn Văn E
