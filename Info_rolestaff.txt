@@ -1,0 +1,6 @@
+Quản lý Dự án (Project Manager)
+Nhân viên Kỹ thuật (Technical Staff)
+Nhân viên Kinh doanh (Sales/Business Staff)
+Nhân viên Marketing
+Nhân viên Hành chính (Administrative Staff)
+Nhân viên Hỗ trợ khách hàng (Customer Support)

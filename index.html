@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Demo: Quản lý dự án Hệ thống thông tin</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        line-height: 1.6;
+        margin: 0;
+        padding: 0;
+      }
+      .container {
+        width: 80%;
+        margin: auto;
+        overflow: hidden;
+      }
+      header {
+        background: #333;
+        color: #fff;
+        padding-top: 30px;
+        min-height: 70px;
+        border-bottom: #77aaff 3px solid;
+      }
+      header a {
+        color: #fff;
+        text-decoration: none;
+        text-transform: uppercase;
+        font-size: 16px;
+      }
+      header ul {
+        padding: 0;
+        list-style: none;
+      }
+      header li {
+        float: left;
+        display: inline;
+        padding: 0 20px 0 20px;
+      }
+      header #branding {
+        float: left;
+      }
+      header #branding h1 {
+        margin: 0;
+      }
+      header nav {
+        float: right;
+        margin-top: 10px;
+      }
+      section {
+        padding: 20px;
+        margin: 20px 0;
+      }
+      footer {
+        background: #333;
+        color: #fff;
+        text-align: center;
+        padding: 10px 0;
+        margin-top: 20px;
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <div class="container">
+        <div id="branding">
+          <h1>Quản lý dự án Hệ thống thông tin</h1>
+        </div>
+        <nav>
+          <ul>
+            <li><a href="#projects">Dự án</a></li>
+            <li><a href="#employees">Nhân viên</a></li>
+            <li><a href="#clients">Khách hàng</a></li>
+            <li><a href="#products">Sản phẩm</a></li>
+          </ul>
+        </nav>
+      </div>
+    </header>
+
+    <div class="container">
+      <section id="overview">
+        <h2>Tổng quan</h2>
+        <p>
+          Hệ thống quản lý dự án giúp bạn theo dõi và quản lý các dự án, nhân
+          viên, khách hàng và sản phẩm một cách hiệu quả. Từ việc phân công công
+          việc, theo dõi tiến độ dự án, đến quản lý thông tin khách hàng và sản
+          phẩm, hệ thống cung cấp các công cụ cần thiết để đảm bảo dự án của bạn
+          được thực hiện đúng tiến độ và đạt được kết quả mong muốn.
+        </p>
+      </section>
+
+      <section id="projects">
+        <h2>Dự án</h2>
+        <p>
+          Danh sách các dự án hiện tại bao gồm thông tin về ngày bắt đầu, ngày
+          kết thúc, trạng thái và người quản lý dự án. Bạn có thể dễ dàng thêm
+          mới, cập nhật hoặc xóa các dự án.
+        </p>
+        <ul>
+          <li>
+            <strong>Dự án A</strong> - Người quản lý: Nguyễn Văn A - Trạng thái:
+            Đang triển khai
+          </li>
+          <li>
+            <strong>Dự án B</strong> - Người quản lý: Trần Thị B - Trạng thái:
+            Hoàn thành
+          </li>
+          <li>
+            <strong>Dự án C</strong> - Người quản lý: Lê Văn C - Trạng thái:
+            Đang triển khai
+          </li>
+        </ul>
+      </section>
+
+      <section id="employees">
+        <h2>Nhân viên</h2>
+        <p>
+          Thông tin chi tiết về nhân viên bao gồm ID, tên, chức vụ, phòng ban,
+          email và số điện thoại. Quản lý thông tin nhân viên giúp bạn dễ dàng
+          theo dõi và liên hệ khi cần thiết.
+        </p>
+        <ul>
+          <li>
+            <strong>Nguyễn Văn A</strong> - Quản lý, Kinh doanh,
+            nguyenvana@congty.com, 0901234567
+          </li>
+          <li>
+            <strong>Trần Thị B</strong> - Nhân viên, Kỹ thuật,
+            tranthib@congty.com, 0912345678
+          </li>
+          <li>
+            <strong>Lê Văn C</strong> - Nhân viên, Marketing, levanc@congty.com,
+            0923456789
+          </li>
+        </ul>
+      </section>
+
+      <section id="clients">
+        <h2>Khách hàng</h2>
+        <p>
+          Quản lý thông tin khách hàng bao gồm ID, tên khách hàng, người liên
+          hệ, email và số điện thoại. Điều này giúp duy trì mối quan hệ tốt với
+          khách hàng và cung cấp dịch vụ chăm sóc khách hàng tốt hơn.
+        </p>
+        <ul>
+          <li>
+            <strong>Công ty X</strong> - Nguyễn Văn D, nguyenvand@congtyx.com,
+            0934567890
+          </li>
+          <li>
+            <strong>Công ty Y</strong> - Trần Thị E, tranthie@congtyy.com,
+            0945678901
+          </li>
+          <li>
+            <strong>Công ty Z</strong> - Lê Văn F, levanf@congtyz.com,
+            0956789012
+          </li>
+        </ul>
+      </section>
+
+      <section id="products">
+        <h2>Sản phẩm</h2>
+        <p>
+          Quản lý thông tin sản phẩm bao gồm mã sản phẩm, tên sản phẩm, loại,
+          giá và số lượng. Điều này giúp bạn dễ dàng theo dõi và quản lý kho
+          hàng của mình.
+        </p>
+        <ul>
+          <li><strong>Sản phẩm A</strong> - Điện tử, 10,000,000 VND, 50 cái</li>
+          <li>
+            <strong>Sản phẩm B</strong> - Gia dụng, 2,000,000 VND, 200 cái
+          </li>
+          <li>
+            <strong>Sản phẩm C</strong> - Thời trang, 500,000 VND, 100 cái
+          </li>
+        </ul>
+      </section>
+    </div>
+
+    <footer>
+      <p>Quản lý dự án hệ thống thông tin &copy; 2024</p>
+    </footer>
+  </body>
+</html>

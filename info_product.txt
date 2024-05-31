@@ -1,0 +1,17 @@
+Mã sản phẩm: SP001
+Tên sản phẩm: Sản phẩm A
+Loại: Điện tử
+Giá: 10000000 VND
+Số lượng: 50
+
+Mã sản phẩm: SP002
+Tên sản phẩm: Sản phẩm B
+Loại: Gia dụng
+Giá: 2000000 VND
+Số lượng: 200
+
+Mã sản phẩm: SP003
+Tên sản phẩm: Sản phẩm C
+Loại: Thời trang
+Giá: 500000 VND
+Số lượng: 100

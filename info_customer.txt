@@ -1,0 +1,17 @@
+ID khách hàng: KH001
+Tên khách hàng: Công ty X
+Người liên hệ: Nguyễn Văn D
+Email: nguyenvand@congtyx.com
+Số điện thoại: 0934567890
+
+ID khách hàng: KH002
+Tên khách hàng: Công ty Y
+Người liên hệ: Trần Thị E
+Email: tranthie@congtyy.com
+Số điện thoại: 0945678901
+
+ID khách hàng: KH003
+Tên khách hàng: Công ty Z
+Người liên hệ: Lê Văn F
+Email: levanf@congtyz.com
+Số điện thoại: 0956789012

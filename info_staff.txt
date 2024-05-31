@@ -1,0 +1,20 @@
+ID: NV001
+Tên: Nguyễn Văn A
+Chức vụ: Quản lý
+Phòng ban: Kinh doanh
+Email: nguyenvana@congty.com
+Số điện thoại: 0901234567
+
+ID: NV002
+Tên: Trần Thị B
+Chức vụ: Nhân viên
+Phòng ban: Kỹ thuật
+Email: tranthib@congty.com
+Số điện thoại: 0912345678
+
+ID: NV003
+Tên: Lê Văn C
+Chức vụ: Nhân viên
+Phòng ban: Marketing
+Email: levanc@congty.com
+Số điện thoại: 0923456789

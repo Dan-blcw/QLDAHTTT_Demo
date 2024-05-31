@@ -1,0 +1,20 @@
+Mã dự án: DA001
+Tên dự án: Dự án A
+Ngày bắt đầu: 01/01/2024
+Ngày kết thúc: 31/12/2024
+Trạng thái: Đang triển khai
+Người quản lý: Nguyễn Văn A
+
+Mã dự án: DA002
+Tên dự án: Dự án B
+Ngày bắt đầu: 15/02/2024
+Ngày kết thúc: 15/08/2024
+Trạng thái: Hoàn thành
+Người quản lý: Trần Thị B
+
+Mã dự án: DA003
+Tên dự án: Dự án C
+Ngày bắt đầu: 01/03/2024
+Ngày kết thúc: 30/11/2024
+Trạng thái: Đang triển khai
+Người quản lý: Lê Văn C
