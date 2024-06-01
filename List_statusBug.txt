@@ -3,7 +3,7 @@ Tiêu đề: Lỗi đăng nhập
 Mô tả: Người dùng không thể đăng nhập vào hệ thống với thông tin hợp lệ
 Người báo cáo: Nguyễn Văn A
 Ngày báo cáo: 20/05/2024
-Trạng thái: Đã fix
+Trạng thái: chưa fix
 Người phụ trách: Trần Thị B
 
 ID: BUG002
